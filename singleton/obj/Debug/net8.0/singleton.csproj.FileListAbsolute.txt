@@ -1,0 +1,14 @@
+/home/ahmed/Programming/github/design-patterns/singleton/bin/Debug/net8.0/singleton
+/home/ahmed/Programming/github/design-patterns/singleton/bin/Debug/net8.0/singleton.deps.json
+/home/ahmed/Programming/github/design-patterns/singleton/bin/Debug/net8.0/singleton.runtimeconfig.json
+/home/ahmed/Programming/github/design-patterns/singleton/bin/Debug/net8.0/singleton.dll
+/home/ahmed/Programming/github/design-patterns/singleton/bin/Debug/net8.0/singleton.pdb
+/home/ahmed/Programming/github/design-patterns/singleton/obj/Debug/net8.0/singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmed/Programming/github/design-patterns/singleton/obj/Debug/net8.0/singleton.AssemblyInfoInputs.cache
+/home/ahmed/Programming/github/design-patterns/singleton/obj/Debug/net8.0/singleton.AssemblyInfo.cs
+/home/ahmed/Programming/github/design-patterns/singleton/obj/Debug/net8.0/singleton.csproj.CoreCompileInputs.cache
+/home/ahmed/Programming/github/design-patterns/singleton/obj/Debug/net8.0/singleton.dll
+/home/ahmed/Programming/github/design-patterns/singleton/obj/Debug/net8.0/refint/singleton.dll
+/home/ahmed/Programming/github/design-patterns/singleton/obj/Debug/net8.0/singleton.pdb
+/home/ahmed/Programming/github/design-patterns/singleton/obj/Debug/net8.0/singleton.genruntimeconfig.cache
+/home/ahmed/Programming/github/design-patterns/singleton/obj/Debug/net8.0/ref/singleton.dll
